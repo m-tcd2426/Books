@@ -1,0 +1,13 @@
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.exe
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.deps.json
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.runtimeconfig.json
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.runtimeconfig.dev.json
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.dll
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.pdb
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.csprojAssemblyReference.cache
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.AssemblyInfoInputs.cache
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.AssemblyInfo.cs
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.csproj.CoreCompileInputs.cache
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.dll
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.pdb
+C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.genruntimeconfig.cache

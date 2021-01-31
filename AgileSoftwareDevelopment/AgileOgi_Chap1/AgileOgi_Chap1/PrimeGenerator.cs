@@ -1,0 +1,64 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace AgileOgi_Chap1
+{
+    public class PrimeGenerator
+    {
+        private static bool[] crossedOut;
+        private static int[] result;
+
+        public static int[] GeneratePrimes(int maxValue)
+        {
+            if (maxValue < 2) return new int[0];
+            else
+            {
+                UncrossIntegersUpTo(maxValue);
+                CrossOutMultiples();
+                PutUncrossedIntegersIntoResult();
+                return result;
+            }
+        }
+        private static void UncrossIntegersUpTo(int maxValue)
+        {
+            crossedOut = new bool[maxValue + 1];
+            for (int i = 2; i < crossedOut.Length; i++)
+                crossedOut[i] = false;
+        }
+
+        private static void CrossOutMultiples()
+        {
+            int limit = DetermineIterationLimit();
+            for (int i = 2; i <= limit; i++)
+                if (!crossedOut[i]) CrossOutMultiplesOf(i);
+        }
+
+        private static int DetermineIterationLimit()
+        {
+            double iterationLimit = Math.Sqrt(crossedOut.Length);
+            return (int)iterationLimit;
+        }
+
+        private static void CrossOutMultiplesOf(int i)
+        {
+            for (int multiple = 2 * i; multiple < crossedOut.Length; multiple += i)
+                crossedOut[multiple] = true;
+        }
+
+        private static void PutUncrossedIntegersIntoResult()
+        {
+            result = new int[NumberOfUncrossedIntegers()];
+            for (int i = 2, j = 0; i < crossedOut.Length; i++)
+                if (!crossedOut[i]) result[j++] = i;
+        }
+
+        private static int NumberOfUncrossedIntegers()
+        {
+            int count = 0;
+            for (int i = 2; i < crossedOut.Length; i++)
+                if (!crossedOut[i]) count++;
+            return count;
+        }
+    }
+}
