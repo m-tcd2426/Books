@@ -11,3 +11,16 @@ C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreap
 C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.dll
 C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.pdb
 C:\Users\tsuchida\source\repos\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.genruntimeconfig.cache
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.exe
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.deps.json
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.runtimeconfig.json
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.runtimeconfig.dev.json
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.dll
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\bin\Debug\netcoreapp3.1\AgileOgi_Chap1.pdb
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.csprojAssemblyReference.cache
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.AssemblyInfoInputs.cache
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.AssemblyInfo.cs
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.csproj.CoreCompileInputs.cache
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.dll
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.pdb
+C:\source\Books\AgileSoftwareDevelopment\AgileOgi_Chap1\AgileOgi_Chap1\obj\Debug\netcoreapp3.1\AgileOgi_Chap1.genruntimeconfig.cache
