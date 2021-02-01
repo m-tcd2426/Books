@@ -6,62 +6,40 @@ namespace AgileOgi_Chap1.BowlingGame
 {
     public class Game
     {
-        private int[] itsThrows = new int[21];
-        private int itsCurrentThrow = 0;
         private int itsCurrentFrame = 1;
-        private bool firstThrow = true;
+        private bool firstThrowInFrame = true;
+        private Scorer itsScorer = new Scorer();
 
         public int Score()
         {
-            return ScoreForFrame(GetCurrentFrame() - 1);
+            return ScoreForFrame(itsCurrentFrame);
         }
 
         public void Add(int pins)
         {
-            itsThrows[itsCurrentThrow++] = pins;
+            itsScorer.AddThrow(pins);
             AdjustCurrentFrame(pins);
         }
         private void AdjustCurrentFrame(int pins)
         {
-            if (firstThrow)
-            {
-                if (pins == 10) itsCurrentFrame++;
-                else firstThrow = false;
-            }
-            else
-            {
-                firstThrow = true;
-                itsCurrentFrame++;
-            }
-            itsCurrentFrame = Math.Min(11, itsCurrentFrame);
-
+            if (LastBallInFrame(pins)) AdvanceFrame();
+            else firstThrowInFrame = false;
         }
-        public int ScoreForFrame(int theFrame)
+        private bool LastBallInFrame(int pins)
         {
-            int score = 0;
-            int ball = 0;
-            for(int currentFrame = 0; currentFrame < theFrame; currentFrame++)
-            {
-                int firstThrow = itsThrows[ball++];
-                // ストライクの場合
-                if(firstThrow == 10)
-                {
-                    score += 10 + itsThrows[ball] + itsThrows[ball + 1];
-                }
-                else
-                {
-                    int secondThrow = itsThrows[ball++];
-                    int frameScore = firstThrow + secondThrow;
-                    // スペアの場合は次のフレームの第一投目の点数を加算
-                    if (frameScore == 10) score += frameScore + itsThrows[ball];
-                    else score += frameScore;
-                }
-            }
-            return score;
+            return Strike(pins) || !(firstThrowInFrame);
         }
-        public int GetCurrentFrame()
+        private bool Strike(int pins)
         {
-            return itsCurrentFrame;
+            return (firstThrowInFrame && pins == 10);
+        }
+        private void AdvanceFrame()
+        {
+            itsCurrentFrame = Math.Min(10, itsCurrentFrame + 1);
+        }
+        private int ScoreForFrame(int theFrame)
+        {
+            return itsScorer.ScoreForFrame(theFrame);
         }
     }
 }
