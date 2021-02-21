@@ -1,0 +1,10 @@
+C:\Users\tsuchida\source\repos\CSharp_OOP_practice\CSharp_OOP_practice\bin\Debug\CSharp_OOP_practice.exe.config
+C:\Users\tsuchida\source\repos\CSharp_OOP_practice\CSharp_OOP_practice\bin\Debug\CSharp_OOP_practice.exe
+C:\Users\tsuchida\source\repos\CSharp_OOP_practice\CSharp_OOP_practice\bin\Debug\CSharp_OOP_practice.pdb
+C:\Users\tsuchida\source\repos\CSharp_OOP_practice\CSharp_OOP_practice\obj\Debug\CSharp_OOP_practice.csprojAssemblyReference.cache
+C:\Users\tsuchida\source\repos\CSharp_OOP_practice\CSharp_OOP_practice\obj\Debug\CSharp_OOP_practice.Form1.resources
+C:\Users\tsuchida\source\repos\CSharp_OOP_practice\CSharp_OOP_practice\obj\Debug\CSharp_OOP_practice.Properties.Resources.resources
+C:\Users\tsuchida\source\repos\CSharp_OOP_practice\CSharp_OOP_practice\obj\Debug\CSharp_OOP_practice.csproj.GenerateResource.cache
+C:\Users\tsuchida\source\repos\CSharp_OOP_practice\CSharp_OOP_practice\obj\Debug\CSharp_OOP_practice.csproj.CoreCompileInputs.cache
+C:\Users\tsuchida\source\repos\CSharp_OOP_practice\CSharp_OOP_practice\obj\Debug\CSharp_OOP_practice.exe
+C:\Users\tsuchida\source\repos\CSharp_OOP_practice\CSharp_OOP_practice\obj\Debug\CSharp_OOP_practice.pdb

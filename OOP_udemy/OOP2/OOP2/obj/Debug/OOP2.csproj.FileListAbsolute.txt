@@ -1,0 +1,11 @@
+C:\Users\tsuchida\source\repos\OOP2\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\tsuchida\source\repos\OOP2\OOP2\bin\Debug\OOP2.exe
+C:\Users\tsuchida\source\repos\OOP2\OOP2\bin\Debug\OOP2.pdb
+C:\Users\tsuchida\source\repos\OOP2\OOP2\obj\Debug\OOP2.Form1.resources
+C:\Users\tsuchida\source\repos\OOP2\OOP2\obj\Debug\OOP2.Properties.Resources.resources
+C:\Users\tsuchida\source\repos\OOP2\OOP2\obj\Debug\OOP2.csproj.GenerateResource.cache
+C:\Users\tsuchida\source\repos\OOP2\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\tsuchida\source\repos\OOP2\OOP2\obj\Debug\OOP2.exe
+C:\Users\tsuchida\source\repos\OOP2\OOP2\obj\Debug\OOP2.pdb
+C:\Users\tsuchida\source\repos\OOP2\OOP2\obj\Debug\OOP2.LoginForm.resources
+C:\Users\tsuchida\source\repos\OOP2\OOP2\obj\Debug\OOP2.Form2.resources

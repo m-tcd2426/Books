@@ -1,0 +1,10 @@
+C:\Users\tsuchida\source\repos\OOP2\OOP3\bin\Debug\OOP3.exe.config
+C:\Users\tsuchida\source\repos\OOP2\OOP3\bin\Debug\OOP3.exe
+C:\Users\tsuchida\source\repos\OOP2\OOP3\bin\Debug\OOP3.pdb
+C:\Users\tsuchida\source\repos\OOP2\OOP3\obj\Debug\OOP3.Form1.resources
+C:\Users\tsuchida\source\repos\OOP2\OOP3\obj\Debug\OOP3.Properties.Resources.resources
+C:\Users\tsuchida\source\repos\OOP2\OOP3\obj\Debug\OOP3.csproj.GenerateResource.cache
+C:\Users\tsuchida\source\repos\OOP2\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\tsuchida\source\repos\OOP2\OOP3\obj\Debug\OOP3.exe
+C:\Users\tsuchida\source\repos\OOP2\OOP3\obj\Debug\OOP3.pdb
+C:\Users\tsuchida\source\repos\OOP2\OOP3\obj\Debug\OOP3.csprojAssemblyReference.cache
